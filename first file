@@ -1,9 +1,9 @@
-Console.Writeline("Rana Badar Munir");
-Console.Writeline("24-SET-015");
-Console.Writeline("Physics");
-Console.Writeline("Math");
-Console.Writeline("Computer Science");
-Console.Writeline("English");
-Console.Writeline("Urdu");
-Console.Writeline("Islamiyat");
-Console.Writeline("Pak Studies");
+Rana Badar Munir
+24-SET-015
+Physics
+Math
+Computer Science
+English
+Urdu
+Islamiyat
+Pak Studies
